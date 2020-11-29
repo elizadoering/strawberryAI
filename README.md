@@ -6,3 +6,4 @@ neither model is in a functional form.
 that model is not complete. 
 Each file initially begins with file loading and labeling, but small changes have been made to enable 
 model compatibility. 
+***To view use nbviewer (https://nbviewer.jupyter.org/) because jupyter files upload as HTML to github**
